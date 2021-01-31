@@ -3,5 +3,8 @@
     <string name="app_name">Luc Laffin s991389277</string>
     <string name="button2">Submit</string>
     <string name="label_main">Welcome, Luc Laffin s991389277!</string>
+    <string name="label_second">My 2nd Screen! Luc Laffin s991389277!</string>
     <string name="button1">Open Browser</string>
+    <string name="toast_text">Opening Website</string>
+    <string name="snackbar_text">Going to Second Activity</string>
 </resources>
