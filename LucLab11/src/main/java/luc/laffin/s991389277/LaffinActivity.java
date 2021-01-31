@@ -13,6 +13,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
@@ -23,6 +24,8 @@ public class LaffinActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_laffin);
+        TextView textView = (TextView)findViewById(R.id.lucTV3);
+        textView.setText(getIntent().getStringExtra("inputText"));
     }
 
     public void buttonClick(View view) {
