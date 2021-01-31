@@ -6,5 +6,6 @@
     <string name="label_second">My 2nd Screen! Luc Laffin s991389277!</string>
     <string name="button1">Open Browser</string>
     <string name="toast_text">Opening Website</string>
+    <string name="go_home">Go Back</string>
     <string name="snackbar_text">Going to Second Activity</string>
 </resources>

@@ -6,5 +6,6 @@
     <string name="label_second">Mon 2ème Écran! Luc Laffin s991389277!</string>
     <string name="button1">Navigateur Ouvert</string>
     <string name="toast_text">Ouverture du Site Web</string>
+    <string name="go_home">Retourner</string>
     <string name="snackbar_text">Aller à la Deuxième Activité</string>
 </resources>
