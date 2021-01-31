@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/LucLab11" />
+            <option value="$PROJECT_DIR$/SimpleIntent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

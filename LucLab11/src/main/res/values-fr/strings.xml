@@ -1,6 +1,7 @@
 <!-- Luc Laffin s991389277 -->
 <resources>
     <string name="app_name">Luc Laffin s991389277</string>
-    <string name="button_submit">Soumettre</string>
-    <string name="label_main">Bonjour le Monde!</string>
+    <string name="button2">Soumettre</string>
+    <string name="label_main">Bienvenue, Luc Laffin s991389277!</string>
+    <string name="button1">Open Browser</string>
 </resources>
